@@ -1,0 +1,11 @@
+2026-08-16 04:51:03 : Started OrthoFinder version 3.1.5
+Command Line: /home/balaji/miniconda3/envs/syntrait/bin/orthofinder -f smoke_test_data -t 4
+
+Search program: diamond
+MSA program: famsa
+Tree program: fasttree
+Scoring matrix: BLOSUM62
+Gap extend: 1
+Gap open: 11
+
+WorkingDirectory_Base: /mnt/c/Users/Balaji/Desktop/Harish dude project/syntrait/smoke_test_data/OrthoFinder/Results_Aug16/WorkingDirectory/

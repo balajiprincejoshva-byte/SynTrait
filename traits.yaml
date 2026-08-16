@@ -1,0 +1,6 @@
+weights:
+  homology: 0.30
+  synteny: 0.25
+  selection: 0.20
+  domain: 0.15
+  expression: 0.10

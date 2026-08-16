@@ -1,0 +1,16 @@
+species:
+  - name: "Oryza sativa"
+    common_name: "rice"
+    tier: 1
+    accession: "GCF_034140825.1"
+    source: "NCBI"
+  - name: "Sorghum bicolor"
+    common_name: "sorghum"
+    tier: 1
+    accession: "GCF_000003195.3"
+    source: "NCBI"
+  - name: "Setaria italica"
+    common_name: "foxtail millet"
+    tier: 1
+    accession: "GCF_000263155.2"
+    source: "NCBI"

@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "SynTrait"
+message: "If you use this software, please cite it using the metadata from this file."
+type: software
+authors:
+  - family-names: "Muthukumar"
+    given-names: "Balaji"
+abstract: "SynTrait is a computational biology platform integrating comparative genomics, orthology, synteny, evolutionary evidence, protein-domain analysis, and trait evidence for candidate-gene prioritization."
